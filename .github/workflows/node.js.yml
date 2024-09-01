@@ -25,4 +25,4 @@ jobs:
             git config user.name "GitHub Actions"
             git config user.email "actions@github.com"
             npm i --force
-            npm run deploy -- --repo=https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/FORMAT-2/3D-portfolio.git
+            npm run deploy -- --repo=https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/FORMAT-2/Portfolio.git
