@@ -12,7 +12,7 @@ const Home = ()=>{
             <div className="flex flex-col justify-center h-full">
                 <h2 className="text-4xl sm:text-7xl font-bold text-white">
   I am a full stack developer 
-  <span className="block sm:inline">NOTE: This site is under construction :)</span>
+  <span className="text-red block sm:inline">NOTE: This site is under construction :)</span>
 </h2>
                     I have 2 years on experience of building and designing 
                     react and node js application 
