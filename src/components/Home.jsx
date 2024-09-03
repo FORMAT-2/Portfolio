@@ -14,6 +14,7 @@ const Home = ()=>{
   I am a full stack developer 
   <span className="text-red block sm:inline">NOTE: This site is under construction :)</span>
 </h2>
+                <p className="text-gray-500 py-4 max-w-md">
                     I have 2 years on experience of building and designing 
                     react and node js application 
                     currently I develop app in React, Node, Next js, Graphql
